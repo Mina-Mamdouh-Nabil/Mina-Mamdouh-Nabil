@@ -45,8 +45,11 @@ I’m Mina Mamdouh, a DevOps Engineer passionate about automation, cloud infrast
 
 ## 📫 Connect With Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-Mina--Mamdouh--Nabil-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mina-Mamdouh-Nabil)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mina%20Mamdouh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mina-mamdouh-nabil)
+<p align="center">
+  <a href="https://www.linkedin.com/in/mina-mamdouh-nabil">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
 ---
 
